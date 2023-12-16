@@ -40,7 +40,7 @@ mindmap
 
 Видео немного устарели, но тем не менее, некоторые по прежнему актуальны. Найти их можно на этих каналах.
 
-[YouTube](https://www.youtube.com/sergeicalabonga) | [Yandex.Дзен](https://dzen.ru/calabonga) | [RuTube](https://rutube.ru/channel/24598124/) | [VK](https://vk.com/video/@calabonga)
+[YouTube](https://www.youtube.com/sergeicalabonga) | [Yandex.Дзен](https://dzen.ru/calabonga) | [RuTube](https://rutube.ru/channel/24598124/) | [VK](https://vk.com/video/@calabonga) | [Nuum.ru](https://nuum.ru/channel/calabonga)
 
 ### Поддержать Calabonga
 Если вам помог какой-то пример кода, или сборка, то вы можете поддержать меня просто отправив сумму, которая вас ни коим образом не обременит. Это можно сделать на [boosty.to](https://boosty.to/calabonga/donate) или на [Ю-money](https://sobe.ru/na/calabonganet).
