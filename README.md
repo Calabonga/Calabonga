@@ -47,6 +47,7 @@ mindmap
 
 ### Полезное
 
+* [Calabonga.Results](https://www.nuget.org/packages/Calabonga.Results)
 * [Microservice-Template](https://github.com/Calabonga/Microservice-Template)
 * [Calabonga.UnitOfWork.MongoDb](https://github.com/Calabonga/Calabonga.UnitOfWork.MongoDb)
 * [Calabonga.AspNetCore.AppDefinitions](https://github.com/Calabonga/Calabonga.AspNetCore.AppDefinitions)
