@@ -10,6 +10,7 @@ mindmap
         [WEB]
         [API]
         [Blazor]
+        [MAUI]
     (Mentor)
         [Teacher]
         [Code Reviewer]
@@ -22,7 +23,7 @@ mindmap
         [Solution]
     (Advocate)
       [.NET]
-      [Patterns]
+      [Design Patterns]
       [Naming Conventions]
     (Creator)
         [Web API]
@@ -30,6 +31,7 @@ mindmap
         [Video lessons]
         [Posts]
         [Instruction]
+        [Tutorials]
 ```
 
 ### Свежее видео, статьи, опросы, заметки
