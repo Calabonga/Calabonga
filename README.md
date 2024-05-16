@@ -18,17 +18,17 @@ mindmap
         [calabonga.net]
         [boosty.to/calabonga]
     (Architect)
-        [Microservice Architecture]
+        [Microservice<br/>Architecture]
         [Monolith]
         [Solution]
     (Advocate)
       [.NET]
-      [Design Patterns]
-      [Naming Conventions]
+      [Design<br/>Patterns]
+      [Naming<br/>Conventions]
     (Creator)
         [Web API]
         [nuget-packages]
-        [Video lessons]
+        [Video]
         [Posts]
         [Instruction]
         [Tutorials]
