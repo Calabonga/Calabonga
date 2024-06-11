@@ -45,7 +45,7 @@ mindmap
 [YouTube](https://www.youtube.com/sergeicalabonga) | [Yandex.Дзен](https://dzen.ru/calabonga) | [RuTube](https://rutube.ru/channel/24598124/) | [VK](https://vk.com/video/@calabonga) | [Nuum.ru](https://nuum.ru/channel/calabonga)
 
 ### Поддержать Calabonga
-Если вам помог какой-то пример кода, или сборка, то вы можете поддержать меня просто отправив сумму, которая вас ни коим образом не обременит. Это можно сделать на [boosty.to](https://boosty.to/calabonga/donate) или на [Ю-money](https://sobe.ru/na/calabonganet).
+Если вам помог какой-то пример кода, или сборка, то вы можете поддержать меня просто отправив сумму, которая вас ни коим образом не обременит. Это можно сделать на [boosty.to](https://boosty.to/calabonga/donate) или на [Ю-money](https://yoomoney.ru/fundraise/139LU394HC1.240611).
 
 ### Полезное
 
