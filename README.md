@@ -48,7 +48,7 @@ mindmap
 Если вам помог какой-то пример кода, или сборка, то вы можете поддержать меня просто отправив сумму, которая вас ни коим образом не обременит. Это можно сделать на [boosty.to](https://boosty.to/calabonga/donate) или на [Ю-money](https://yoomoney.ru/fundraise/139LU394HC1.240611).
 
 ### Полезное
-
+* [Commandex Framework](https://github.com/search?q=owner%3ACalabonga+Commandex&type=repositories)
 * [Calabonga.Results](https://www.nuget.org/packages/Calabonga.Results)
 * [Microservice-Template](https://github.com/Calabonga/Microservice-Template)
 * [Calabonga.UnitOfWork.MongoDb](https://github.com/Calabonga/Calabonga.UnitOfWork.MongoDb)
