@@ -50,6 +50,7 @@ mindmap
 * [Calabonga.EntityProcessor](https://github.com/Calabonga/Calabonga.EntityProcessor)
 * [Calabonga.RulesValidator](https://github.com/Calabonga/Calabonga.RulesValidator)
 * [Calabonga.Catalog](https://github.com/Calabonga/Calabonga.Catalog)
+* [Приватный telegram-канал](https://t.me/+IN5f2Hc0EuQ3ZmZi)
 
 ## Обратная связь
 Вы можете [написать мне сообщение](https://www.calabonga.net/site/feedback) или на моей странице [boosty.to](https://boosty.to/calabonga) или на сайте моего блога. 
