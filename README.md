@@ -53,7 +53,7 @@ mindmap
 * [Приватный telegram-канал](https://t.me/+IN5f2Hc0EuQ3ZmZi)
 
 ## Обратная связь
-Вы можете [написать мне сообщение](https://www.calabonga.net/site/feedback) или на моей странице [boosty.to](https://boosty.to/calabonga) или на сайте моего блога. 
+Вы можете [написать мне сообщение через форму обратной связи](https://www.calabonga.net/site/feedback) или на моей странице [boosty.to](https://boosty.to/calabonga). 
 
 ## От автора
 Пишите правильный код!
